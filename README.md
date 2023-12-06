@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- ## I'm Tremaine Little, an up-and-coming Cloud Engineer eager to explore the endless possibilities of cloud technology. Currently diving into the world of Python!  -->
+## I'm Tremaine Little, an up-and-coming Cloud Engineer eager to explore the endless possibilities of cloud technology. Currently diving into the world of Python!  -->
 
 I'm eager to connect with fellow tech enthusisasts, learn from experienced professionals, and collaborate on exciting projects. Feel free to reach out:
 
